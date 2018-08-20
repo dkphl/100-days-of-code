@@ -15,7 +15,7 @@
 - [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
 - StudyWebDevelopment Blog [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) 
 - If you get upset or stuck, read this article: [Learning to Code: When It Gets Dark](https://medium.freecodecamp.com/learning-to-code-when-it-gets-dark-e485edfb58fd)
-- If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/
+- If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/)
 - [Daily Log Example](https://github.com/Kallaway/100-days-kallaway-log)
 
 ## The Projects 
