@@ -19,24 +19,24 @@
 6. [Log Example](https://github.com/Kallaway/100-days-kallaway-log)
 
 ## The Projects 
-- [] todo list
-- [] employee expense report generator
-- [] countdown clock | [github](https://github.com/dkphl/countdownClock)
-- [] world clock, analog  
-- [] recipe generator
-- [] unit converter
-- [] hours to decimals converter
-- [] temperature converter
-- [] bill tracking app
-- [] photography exposure triangle
-- [] instagram feed client
-- [] finish that hip hop lyric quiz
-- [] book database
-- [] simple calculator
-- [] gym weight plate calculator app
-- [] notes app 
-- [] pomodoro timer app
-- [] fuel mpg log
+- [ ] todo list
+- [ ] employee expense report generator
+- [ ] countdown clock | [github](https://github.com/dkphl/countdownClock)
+- [ ] world clock, analog  
+- [ ] recipe generator
+- [ ] unit converter
+- [ ] hours to decimals converter
+- [ ] temperature converter
+- [ ] bill tracking app
+- [ ] photography exposure triangle
+- [ ] instagram feed client
+- [ ] finish that hip hop lyric quiz
+- [ ] book database
+- [ ] simple calculator
+- [ ] gym weight plate calculator app
+- [ ] notes app 
+- [ ] pomodoro timer app
+- [ ] fuel mpg log
 
 
 
