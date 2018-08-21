@@ -24,6 +24,7 @@
 - [ ] countdown clock | [github](https://github.com/dkphl/countdownClock)
 - [ ] world clock, analog  
 - [ ] recipe generator
+- [ ] gradient background generator | [github](https://github.com/dkphl/background-generator)
 - [ ] unit converter
 - [ ] hours to decimals converter
 - [ ] temperature converter
