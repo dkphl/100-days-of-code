@@ -2,10 +2,10 @@
 
 ### Day 0: August 20, 2018
 
-**Today's Progress**: 
+**Today's Progress**: worked on javascript background generator
 
-**Thoughts:** 
+**Thoughts:** simple project in JS; learned a bit off css trying to style it
 
-**Link to work:** 
+**Link to work:** https://dkphl.github.io/background-generator/
 
 
