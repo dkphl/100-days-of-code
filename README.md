@@ -19,7 +19,10 @@
 - [Daily Log Example](https://github.com/Kallaway/100-days-kallaway-log)
 
 ## The Projects 
-- [ ] todo list
+- [ ] temperature converter | [github](https://github.com/dkphl/temp-converter)
+- [ ] pomodoro timer app
+- [ ] todo list | [github](https://github.com/dkphl/uglyTodoList)
+- [ ] gym weight plate calculator app
 - [ ] employee expense report generator
 - [ ] countdown clock | [github](https://github.com/dkphl/countdownClock)
 - [ ] world clock, analog  
@@ -27,16 +30,13 @@
 - [ ] gradient background generator | [github](https://github.com/dkphl/background-generator)
 - [ ] unit converter
 - [ ] hours to decimals converter
-- [ ] temperature converter
 - [ ] bill tracking app
 - [ ] photography exposure triangle
 - [ ] instagram feed client
 - [ ] finish that hip hop lyric quiz
 - [ ] book database
 - [ ] simple calculator
-- [ ] gym weight plate calculator app
 - [ ] notes app 
-- [ ] pomodoro timer app
 - [ ] fuel mpg log
 
 
